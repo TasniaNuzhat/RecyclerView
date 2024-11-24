@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+
+    <string name="Potato_Bread">Primary Ingredients:\n
+    Flour, Sugar, Salt. Milk Powder, Potato, Lecithin, WhiteYeast, Butter, Egg </string>
+
+    <string name="Ciabatta_Bread">Primary Ingredients:\n
+
+Flour, Olive Oil, Salt, Red Yeast, Lecithin</string>
+
+    <string name="Croissant">Primary Ingredients:\n
+
+Flour, Sugar, Salt, White Yeast, Lecithin, Milk Powder, Vanilla, Egg, Ice, and Butter.</string>
+
+    <string name= "Nutty_Almond_Tiles">Ingredients:\n
+
+Flour, Cheese, Butter, Water, Salt, Yeast</string>
+
+    <string name="Dry_Cake">Ingredients:\n
+
+Butter, Icing Sugar, Liquid Milk, Flour</string>
+</resources>
